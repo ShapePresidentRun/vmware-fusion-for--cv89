@@ -1,4 +1,4 @@
-
+secure VMware Fusion for macOS Plugin | USB-passthrough + hardware-acceleration is the best VMware Fusion for macOS plugin, featuring USB-passthrough and hardware-acceleration.
 
 
 
